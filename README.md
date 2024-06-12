@@ -2,7 +2,7 @@
 
 The app utilizes two popular sentiment analysis libraries, TextBlob and VADER, to provide comprehensive insights into the sentiment of the text.
 
-![Sentiment Analysis Web App](screenshot.png)
+![Sentiment Analysis Web App]([screenshot.png](https://i.ibb.co/PM9xjPq/screenshot.png))
 
 ## Key Features
 - **Dual Sentiment Analysis:** Utilizes both TextBlob and VADER sentiment analysis libraries for enhanced accuracy.
